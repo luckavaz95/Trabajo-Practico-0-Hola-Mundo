@@ -1,5 +1,5 @@
-/* Trabajo Pr·ctico N0 Hola Mundo
-* Lucas V·zquez
+/* Trabajo Pr√°ctico Numero 0 Hola Mundo
+* Lucas V√°zquez
 * 05/04/2015
 */
 
